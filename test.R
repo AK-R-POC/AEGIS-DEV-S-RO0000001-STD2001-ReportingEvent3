@@ -1,3 +1,6 @@
+#-------------------------------------------------------
+# Independent script without any input/output
+#-------------------------------------------------------
 #log_info("Script Starts!", action="start")
 message("[AEGIS Logging]Script Starts!")
 
