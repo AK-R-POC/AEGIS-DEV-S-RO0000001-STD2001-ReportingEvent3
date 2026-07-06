@@ -1,3 +1,7 @@
+#-------------------------------------------------------
+# Independent script without any input/output
+# 2026-07-07
+#-------------------------------------------------------
 #log_info("Script Starts!", action="start")
 message("[AEGIS Logging]Script Starts!")
 
