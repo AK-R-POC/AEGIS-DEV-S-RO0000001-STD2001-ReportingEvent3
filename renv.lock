@@ -33,7 +33,7 @@
       "NeedsCompilation": "no",
       "Author": "Winston Chang [aut, cre], Posit Software, PBC [cph, fnd]",
       "Maintainer": "Winston Chang <winston@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "bit": {
       "Package": "bit",
@@ -66,7 +66,7 @@
       "NeedsCompilation": "yes",
       "Author": "Michael Chirico [aut, cre], Jens Oehlschlägel [aut], Brian Ripley [ctb]",
       "Maintainer": "Michael Chirico <MichaelChirico4@gmail.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "bit64": {
       "Package": "bit64",
@@ -100,7 +100,7 @@
       "NeedsCompilation": "yes",
       "Author": "Michael Chirico [aut, cre], Jens Oehlschlägel [aut], Leonardo Silvestri [ctb], Ofek Shilon [ctb]",
       "Maintainer": "Michael Chirico <michaelchirico4@gmail.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "cli": {
       "Package": "cli",
@@ -147,7 +147,7 @@
       "NeedsCompilation": "yes",
       "Author": "Gábor Csárdi [aut, cre], Hadley Wickham [ctb], Kirill Müller [ctb], Salim Brüggemann [ctb] (<https://orcid.org/0000-0002-5329-5987>), Posit Software, PBC [cph, fnd]",
       "Maintainer": "Gábor Csárdi <gabor@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "clipr": {
       "Package": "clipr",
@@ -178,7 +178,7 @@
       "NeedsCompilation": "no",
       "Author": "Matthew Lincoln [aut, cre] (<https://orcid.org/0000-0002-4387-3384>), Louis Maddox [ctb], Steve Simpson [ctb], Jennifer Bryan [ctb]",
       "Maintainer": "Matthew Lincoln <matthew.d.lincoln@gmail.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "cpp11": {
       "Package": "cpp11",
@@ -225,7 +225,7 @@
       "NeedsCompilation": "no",
       "Author": "Davis Vaughan [aut, cre] (<https://orcid.org/0000-0003-4777-038X>), Jim Hester [aut] (<https://orcid.org/0000-0002-2739-7082>), Romain François [aut] (<https://orcid.org/0000-0002-2444-4226>), Benjamin Kietzman [ctb], Posit Software, PBC [cph, fnd]",
       "Maintainer": "Davis Vaughan <davis@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "crayon": {
       "Package": "crayon",
@@ -255,7 +255,7 @@
       "NeedsCompilation": "no",
       "Author": "Gábor Csárdi [aut, cre], Brodie Gaslam [ctb], Posit Software, PBC [cph, fnd]",
       "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "digest": {
       "Package": "digest",
@@ -283,7 +283,7 @@
       "NeedsCompilation": "yes",
       "Author": "Dirk Eddelbuettel [aut, cre] (<https://orcid.org/0000-0001-6419-907X>), Antoine Lucas [ctb], Jarek Tuszynski [ctb], Henrik Bengtsson [ctb] (<https://orcid.org/0000-0002-7579-5165>), Simon Urbanek [ctb] (<https://orcid.org/0000-0003-2297-1732>), Mario Frasca [ctb], Bryan Lewis [ctb], Murray Stokely [ctb], Hannes Muehleisen [ctb], Duncan Murdoch [ctb], Jim Hester [ctb], Wush Wu [ctb] (<https://orcid.org/0000-0001-5180-0567>), Qiang Kou [ctb] (<https://orcid.org/0000-0001-6786-5453>), Thierry Onkelinx [ctb] (<https://orcid.org/0000-0001-8804-4216>), Michel Lang [ctb] (<https://orcid.org/0000-0001-9754-0393>), Viliam Simko [ctb], Kurt Hornik [ctb] (<https://orcid.org/0000-0003-4198-9911>), Radford Neal [ctb] (<https://orcid.org/0000-0002-2473-3407>), Kendon Bell [ctb] (<https://orcid.org/0000-0002-9093-8312>), Matthew de Queljoe [ctb], Dmitry Selivanov [ctb], Ion Suruceanu [ctb], Bill Denney [ctb], Dirk Schumacher [ctb], András Svraka [ctb], Sergey Fedorov [ctb], Will Landau [ctb] (<https://orcid.org/0000-0003-1878-3253>), Floris Vanderhaeghe [ctb] (<https://orcid.org/0000-0002-6378-6229>), Kevin Tappe [ctb], Harris McGehee [ctb], Tim Mastny [ctb], Aaron Peikert [ctb] (<https://orcid.org/0000-0001-7813-818X>), Mark van der Loo [ctb] (<https://orcid.org/0000-0002-9807-4686>), Chris Muir [ctb] (<https://orcid.org/0000-0003-2555-3878>), Moritz Beller [ctb] (<https://orcid.org/0000-0003-4852-0526>), Sebastian Campbell [ctb], Winston Chang [ctb] (<https://orcid.org/0000-0002-1576-2126>), Dean Attali [ctb] (<https://orcid.org/0000-0002-5645-3493>), Michael Chirico [ctb] (<https://orcid.org/0000-0003-0787-087X>), Kevin Ushey [ctb]",
       "Maintainer": "Dirk Eddelbuettel <edd@debian.org>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "dplyr": {
       "Package": "dplyr",
@@ -384,7 +384,7 @@
       "NeedsCompilation": "no",
       "Author": "Hadley Wickham [aut, cre], Posit Software, PBC [cph, fnd] (ROR: <https://ror.org/03wc8by49>)",
       "Maintainer": "Hadley Wickham <hadley@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "generics": {
       "Package": "generics",
@@ -416,7 +416,7 @@
       "NeedsCompilation": "no",
       "Author": "Hadley Wickham [aut, cre] (ORCID: <https://orcid.org/0000-0003-4757-117X>), Max Kuhn [aut], Davis Vaughan [aut], Posit Software, PBC [cph, fnd] (ROR: <https://ror.org/03wc8by49>)",
       "Maintainer": "Hadley Wickham <hadley@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "glue": {
       "Package": "glue",
@@ -457,7 +457,7 @@
       "NeedsCompilation": "yes",
       "Author": "Jim Hester [aut] (<https://orcid.org/0000-0002-2739-7082>), Jennifer Bryan [aut, cre] (<https://orcid.org/0000-0002-6983-2759>), Posit Software, PBC [cph, fnd]",
       "Maintainer": "Jennifer Bryan <jenny@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "haven": {
       "Package": "haven",
@@ -506,7 +506,7 @@
       "NeedsCompilation": "yes",
       "Author": "Hadley Wickham [aut, cre], Evan Miller [aut, cph] (Author of included ReadStat code), Danny Smith [aut], Posit Software, PBC [cph, fnd]",
       "Maintainer": "Hadley Wickham <hadley@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "hms": {
       "Package": "hms",
@@ -540,7 +540,7 @@
       "NeedsCompilation": "no",
       "Author": "Kirill Müller [aut, cre] (ORCID: <https://orcid.org/0000-0002-1416-3412>), R Consortium [fnd], Posit Software, PBC [fnd] (ROR: <https://ror.org/03wc8by49>)",
       "Maintainer": "Kirill Müller <kirill@cynkra.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "lifecycle": {
       "Package": "lifecycle",
@@ -611,7 +611,7 @@
       "NeedsCompilation": "yes",
       "Author": "Stefan Milton Bache [aut, cph] (Original author and creator of magrittr), Hadley Wickham [aut], Lionel Henry [cre], Posit Software, PBC [cph, fnd] (ROR: <https://ror.org/03wc8by49>)",
       "Maintainer": "Lionel Henry <lionel@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "pillar": {
       "Package": "pillar",
@@ -668,7 +668,7 @@
       "NeedsCompilation": "no",
       "Author": "Kirill Müller [aut, cre] (ORCID: <https://orcid.org/0000-0002-1416-3412>), Hadley Wickham [aut], RStudio [cph]",
       "Maintainer": "Kirill Müller <kirill@cynkra.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "pkgconfig": {
       "Package": "pkgconfig",
@@ -692,7 +692,7 @@
       "BugReports": "https://github.com/r-lib/pkgconfig/issues",
       "Encoding": "UTF-8",
       "NeedsCompilation": "no",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "prettyunits": {
       "Package": "prettyunits",
@@ -717,7 +717,7 @@
       "NeedsCompilation": "no",
       "Author": "Gabor Csardi [aut, cre], Bill Denney [ctb] (<https://orcid.org/0000-0002-5759-428X>), Christophe Regouby [ctb]",
       "Maintainer": "Gabor Csardi <csardi.gabor@gmail.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "progress": {
       "Package": "progress",
@@ -750,7 +750,7 @@
       "NeedsCompilation": "no",
       "Author": "Gábor Csárdi [aut, cre], Rich FitzJohn [aut], Posit Software, PBC [cph, fnd]",
       "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "readr": {
       "Package": "readr",
@@ -975,7 +975,7 @@
       "NeedsCompilation": "yes",
       "Author": "Kirill Müller [aut, cre] (ORCID: <https://orcid.org/0000-0002-1416-3412>), Hadley Wickham [aut], Romain Francois [ctb], Jennifer Bryan [ctb], RStudio [cph, fnd]",
       "Maintainer": "Kirill Müller <kirill@cynkra.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "tidyselect": {
       "Package": "tidyselect",
@@ -1018,7 +1018,7 @@
       "NeedsCompilation": "yes",
       "Author": "Lionel Henry [aut, cre], Hadley Wickham [aut], Posit Software, PBC [cph, fnd]",
       "Maintainer": "Lionel Henry <lionel@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "tzdb": {
       "Package": "tzdb",
@@ -1048,7 +1048,7 @@
       "NeedsCompilation": "yes",
       "Author": "Davis Vaughan [aut, cre], Howard Hinnant [cph] (Author of the included date library), Posit Software, PBC [cph, fnd]",
       "Maintainer": "Davis Vaughan <davis@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "utf8": {
       "Package": "utf8",
@@ -1079,7 +1079,7 @@
       "NeedsCompilation": "yes",
       "Author": "Patrick O. Perry [aut, cph], Kirill Müller [cre] (ORCID: <https://orcid.org/0000-0002-1416-3412>), Unicode, Inc. [cph, dtc] (Unicode Character Database)",
       "Maintainer": "Kirill Müller <kirill@cynkra.com>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "vctrs": {
       "Package": "vctrs",
@@ -1198,7 +1198,7 @@
       "NeedsCompilation": "yes",
       "Author": "Jim Hester [aut] (ORCID: <https://orcid.org/0000-0002-2739-7082>), Hadley Wickham [aut] (ORCID: <https://orcid.org/0000-0003-4757-117X>), Jennifer Bryan [aut, cre] (ORCID: <https://orcid.org/0000-0002-6983-2759>), Shelby Bearrows [ctb], https://github.com/mandreyel/ [cph] (mio library), Jukka Jylänki [cph] (grisu3 implementation), Mikkel Jørgensen [cph] (grisu3 implementation), Posit Software, PBC [cph, fnd]",
       "Maintainer": "Jennifer Bryan <jenny@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     },
     "withr": {
       "Package": "withr",
@@ -1236,7 +1236,7 @@
       "NeedsCompilation": "no",
       "Author": "Jim Hester [aut], Lionel Henry [aut, cre], Kirill Müller [aut], Kevin Ushey [aut], Hadley Wickham [aut], Winston Chang [aut], Jennifer Bryan [ctb], Richard Cotton [ctb], Posit Software, PBC [cph, fnd]",
       "Maintainer": "Lionel Henry <lionel@posit.co>",
-      "Repository": "https://aegisrspm.internal.onecloudlabo.com/cran-snapshot-20251030/__linux__/noble/latest"
+      "Repository": "INHOUSE"
     }
   }
 }
